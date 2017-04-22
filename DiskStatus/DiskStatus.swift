@@ -6,6 +6,7 @@
 //  Copyright (c) 2015 BE Studio. All rights reserved.
 //
 import UIKit
+import Foundation // Adding this will make this compatiable with macOS as well.
 
 class DiskStatus {
     
